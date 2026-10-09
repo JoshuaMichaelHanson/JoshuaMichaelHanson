@@ -48,7 +48,7 @@ That usually leads to a new repo, several terminal windows, too much coffee, and
 
 I enjoy working across the stack, experimenting with developer tooling, AI coding agents, automation, local LLMs, and turning repetitive workflows into software.
 
-When I'm not behind a keyboard, there's a good chance I'm mountain biking, skiing, fishing, working on something outdoors, or planning the next adventure.
+When I'm not behind a keyboard, there's a good chance I'm mountain biking, snowboarding, onewheel, fishing, working on something outdoors, or planning the next adventure.
 
 ---
 
