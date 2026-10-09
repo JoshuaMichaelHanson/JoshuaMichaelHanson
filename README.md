@@ -36,7 +36,7 @@ and occasionally disappear into the woods.**
 > Full-stack developer
 > AI-assisted engineering enthusiast
 > Builder of useful tools and questionable weekend projects
-> Mountain biker • Skier • Outdoorsman
+> Mountain biker • Snowboarder • Outdoorsman
 > Rochester, Minnesota
 ```
 
