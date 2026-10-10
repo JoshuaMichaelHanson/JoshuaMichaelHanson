@@ -5,10 +5,10 @@
 ### Software Engineer • Builder • Outdoor Enthusiast • Professional Rabbit-Hole Explorer
 
 ```text
-                         /\             
-                        /  \        /\  
-               /\      /    \  /\  /  \
-              /  \    /      \/  \/    \
+                           /\             
+                          /  \        /\  
+                 /\      /    \  /\  /  \
+                /  \    /      \/  \/    \
          _______/____\__/___________________\____
 
              W I L D E R N E S S
